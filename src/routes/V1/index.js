@@ -7,4 +7,4 @@ const router = express.Router();
 router.get('/info', InfoController.info);
 
 module.exports = router;
-module.express = Router;
+module.express = router;
